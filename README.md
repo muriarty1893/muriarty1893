@@ -2,11 +2,11 @@
 <h1 align="center">Hi there👋, my name is Murat Eker</h1>
 <h3 align="center">About me;</h3>
 <br>
-- 🔭 I’m currently working on [CSharp-Integrated-elasticsearch](https://github.com/muriarty1893/CSharp-Integrated-elasticsearch.git)
+- 🔭 I’m currently working on [elasticsearch-project](https://github.com/muriarty1893/day8.git)
 <br>
-- 🤝 I’m looking for help with [CSharp-Integrated-elasticsearch](https://github.com/muriarty1893/CSharp-Integrated-elasticsearch.git)
+- 🤝 I’m looking for help with [elasticsearch-project](https://github.com/muriarty1893/day8.git)
 <br>
-- 🌱 I’m currently learning **Pyhton, C# and elasticsearch**
+- 🌱 I’m currently learning **Pyhton, C#, Machine learning and elasticsearch**
 <br>
 - 📫 How to reach me **murateker9166@gmail.com**
 <br>
