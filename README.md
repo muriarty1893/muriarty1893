@@ -1,4 +1,3 @@
-<img src="[https://gist.github.com/stevengeorgeharris/c99d23025de85e1b1b2b391d5b043ed4/raw/792605f1b00f2cd8c0914eeb32745bf8ccea3a72/hello-there.gif](https://media1.tenor.com/m/l0YrTRoRMm0AAAAC/elmo-fire.gif)" width="100%" />
 <h3 align="center">░░░░░░░░▄▄▄▀▀▀▄▄███▄░░░░░░░░░░░░░░<br>
 ░░░░░▄▀▀░░░░░░░▐░▀██▌░░░░░░░░░░░░░<br>
 ░░░▄▀░░░░▄▄███░▌▀▀░▀█░░░░░░░░░░░░░<br>
