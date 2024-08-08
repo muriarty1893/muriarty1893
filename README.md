@@ -1,11 +1,11 @@
 <h1 align="center">Hi there👋, my name is Murat Eker</h1>
 <h3 align="center">About me;</h3>
 <br>
-- 🔭 I’m currently working on [elasticsearch-project](https://github.com/muriarty1893/the-project.git)
+- 🔭 I’m currently working on (https://github.com/muriarty1893/web_UI_for_PoE_api.git)
 <br>
-- 🤝 I’m looking for help with [elasticsearch-project](https://github.com/muriarty1893/the-project.git)
+- 🤝 I’m looking for help with ideas to make a addon out of this for PoE [https://github.com/muriarty1893/web_UI_for_PoE_api.git)
 <br>
-- 🌱 I’m currently learning **Pyhton, C#, Machine learning and elasticsearch**
+- 🌱 I’m currently learning **Pyhton, C#, JavaScript**
 <br>
 - 📫 How to reach me **murateker9166@gmail.com**
 <br>
