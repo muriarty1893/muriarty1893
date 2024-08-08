@@ -3,7 +3,7 @@
 <br>
 - 🔭 I’m currently working on (https://github.com/muriarty1893/web_UI_for_PoE_api.git)
 <br>
-- 🤝 I’m looking for help with ideas to make a addon out of this for PoE [https://github.com/muriarty1893/web_UI_for_PoE_api.git)
+- 🤝 I’m looking for help with ideas to make a addon out of it for PoE [https://github.com/muriarty1893/web_UI_for_PoE_api.git)
 <br>
 - 🌱 I’m currently learning **Pyhton, C#, JavaScript**
 <br>
