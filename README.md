@@ -15,7 +15,7 @@
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
 www.linkedin.com/in/murat-eker <br>
-<a href="murateker.live">murateker.live</a>
+<a href="https://murateker.live/">murateker.live</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
