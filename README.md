@@ -5,7 +5,7 @@
 <br>
 - 🌱 I’m currently learning **Pyhton and Machine Learning**
 <br>
-- 📫 How to reach me **murateker9166@gmail.com** or **ekerinfo@gmail.com**
+- 📫 How to reach me : here, <a href = "mailto:murateker9166@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>, here, **murateker9166@gmail.com** or here, **ekerinfo@gmail.com**
 <br>
 <a href = "mailto:murateker9166@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
