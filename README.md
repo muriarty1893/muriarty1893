@@ -3,8 +3,6 @@
 <br>
 - 🔭 I’m currently working on (https://github.com/muriarty1893/the-project)
 <br>
-- 🤝 I’m looking for help with ideas to make a addon out of it for PoE [https://github.com/muriarty1893/web_UI_for_PoE_api.git)
-<br>
 - 🌱 I’m currently learning **Pyhton and Machine Learning**
 <br>
 - 📫 How to reach me **murateker9166@gmail.com** or **ekerinfo@gmail.com**
