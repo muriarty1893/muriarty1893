@@ -1,13 +1,13 @@
 <h1 align="center">Hi there👋, my name is Murat Eker</h1>
 <h3 align="center">About me;</h3>
 <br>
-- 🔭 I’m currently working on (https://github.com/muriarty1893/web_UI_for_PoE_api.git)
+- 🔭 I’m currently working on (https://github.com/muriarty1893/the-project)
 <br>
 - 🤝 I’m looking for help with ideas to make a addon out of it for PoE [https://github.com/muriarty1893/web_UI_for_PoE_api.git)
 <br>
-- 🌱 I’m currently learning **Pyhton, C#, JavaScript**
+- 🌱 I’m currently learning **Pyhton and Machine Learning**
 <br>
-- 📫 How to reach me **murateker9166@gmail.com**
+- 📫 How to reach me **murateker9166@gmail.com** or **ekerinfo@gmail.com**
 <br>
 <div> <a href="https://www.linkedin.com/in/www.linkedin.com/in/murat-eker" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/ _eker_murat" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
