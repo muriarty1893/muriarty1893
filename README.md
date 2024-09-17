@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, my name is Murat Eker</h1>
 <h3 align="center">About me;</h3>
 <br>
-- 🔭 I’m currently working on (https://github.com/muriarty1893/the-elastic-project)
+- 🔭 I’m currently working on <a href="https://github.com/muriarty1893/the-elastic-project">Elastic-search Project</a>
 <br>
 - 🌱 I’m currently learning **Pyhton and Machine Learning**
 <br>
