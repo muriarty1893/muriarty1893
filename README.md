@@ -4,7 +4,7 @@
 <br>
 - 🔭 I’m currently working on <a href="https://github.com/muriarty1893/the-elastic-project">Elastic-search Project</a>
 <br>
-- 🌱 I’m currently learning **Pyhton and Machine Learning**
+- 🌱 I’m currently learning **Pyhton, Tensorflow and Linux**
 <br>
 - 📫 How to reach me <a href = "mailto:murateker9166@gmail.com">murateker9166@gmail.com</a> or <a href = "mailto:ekerinfo@gmail.com">ekerinfo@gmail.com</a>
 <br>
