@@ -6,7 +6,7 @@
 <br>
 - 🌱 I’m currently learning **Pyhton, Tensorflow and Linux**
 <br>
-- 📫 How to reach me <a href = "mailto:murateker9166@gmail.com">murateker9166@gmail.com</a> or <a href = "mailto:ekerinfo@gmail.com">ekerinfo@gmail.com</a>
+- 📫 How to reach me: <a href = "mailto:ekerinfo@gmail.com">ekerinfo@gmail.com</a>
 <br>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
