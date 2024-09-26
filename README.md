@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, my name is Murat Eker</h1>
-<h3 align="left">About me;</h3>
+
 <p>I am a student with a strong interest in artificial intelligence and machine learning. I have participated in various bootcamp programs to develop my knowledge and skills in these fields and am constantly striving to learn new technologies. I enjoy solving problems using data-driven approaches and aim to transform complex datasets into meaningful and valuable insights.</p>
 <br>
 - 🔭 I’m currently working on <a href="https://github.com/muriarty1893/the-elastic-project">Elastic-search Project</a>
