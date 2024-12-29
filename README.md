@@ -2,9 +2,7 @@
 
 <p>I am a student with a strong interest in artificial intelligence and machine learning. I have participated in various bootcamp programs to develop my knowledge and skills in these fields and am constantly striving to learn new technologies. I enjoy solving problems using data-driven approaches and aim to transform complex datasets into meaningful and valuable insights. I use GitHub as a personal diary for my projects so feel free to explore.</p>
 <br>
-- 🔭 I’m currently working on <a href="https://github.com/muriarty1893/the-elastic-project">Elastic-search Project</a>
-<br>
-- 🌱 I’m currently learning **Pyhton, Tensorflow and Linux**
+- 🌱 I’m currently learning **Pyhton, Tensorflow and C++**
 <br>
 - 📫 How to reach me: <a href = "mailto:ekerinfo@gmail.com">ekerinfo@gmail.com</a>
 <br>
