@@ -1,4 +1,4 @@
-📫: <a href = "mailto:ekerinfo@gmail.com">ekerinfo@gmail.com</a>
+📫: <a href = "mailto:ekermuratinfo@gmail.com">ekermuratinfo@gmail.com</a>
 <br>
 <p align="left">
 ✅: www.linkedin.com/in/murat-eker <br>
