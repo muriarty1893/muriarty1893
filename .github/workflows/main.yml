@@ -1,6 +1,4 @@
-# Licensed under The Unlicense
 # GitHub Metrics Auto-Update Workflow
-# Stable and scope-aware configuration for profile metrics
 
 name: Metrics
 
@@ -19,11 +17,10 @@ jobs:
     permissions:
       contents: write
     env:
-      USERNAME: billpwchan
+      USERNAME: muriarty1893
       METRICS_TOKEN: ${{ secrets.METRICS_TOKEN != '' && secrets.METRICS_TOKEN || github.token }}
-      STOCK_TOKEN: ${{ secrets.STOCK_TOKEN }}
     steps:
-      - name: 🗃️ Base Metrics - Core Stats & Activity
+      - name: Base Metrics - Core Stats & Activity
         if: ${{ always() }}
         uses: lowlighter/metrics@v3.34
         with:
@@ -33,7 +30,7 @@ jobs:
           base: header, activity, community, repositories
           plugin_lines: yes
 
-      - name: 🈷️ Language Distribution - Programming Focus
+      - name: Language Distribution
         if: ${{ always() }}
         uses: lowlighter/metrics@v3.34
         with:
@@ -53,7 +50,7 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_languages_details: bytes-size, percentage
 
-      - name: 📅 Isometric Commit Calendar - Half-Year View
+      - name: Isometric Commit Calendar
         if: ${{ always() }}
         uses: lowlighter/metrics@v3.34
         with:
@@ -64,7 +61,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-      - name: 📰 Recent Activity - Latest Contributions
+      - name: Recent Activity
         if: ${{ always() }}
         uses: lowlighter/metrics@v3.34
         with:
@@ -78,7 +75,7 @@ jobs:
           plugin_activity_filter: issue, pr
           plugin_activity_visibility: public
 
-      - name: 💡 Coding Habits - Development Patterns
+      - name: Coding Habits
         if: ${{ always() }}
         uses: lowlighter/metrics@v3.34
         with:
@@ -90,7 +87,7 @@ jobs:
           plugin_habits_charts: yes
           plugin_habits_days: 30
 
-      - name: 🏆 Achievements - GitHub Milestones
+      - name: Achievements
         if: ${{ always() }}
         uses: lowlighter/metrics@v3.34
         with:
@@ -102,7 +99,7 @@ jobs:
           plugin_achievements_display: compact
           plugin_achievements_threshold: C
 
-      - name: ✨ Stargazers - Repository Growth
+      - name: Stargazers
         if: ${{ always() }}
         uses: lowlighter/metrics@v3.34
         with:
@@ -113,7 +110,7 @@ jobs:
           plugin_stargazers: yes
           plugin_stargazers_charts_type: classic
 
-      - name: 🎭 Comment Reactions - Community Interaction
+      - name: Comment Reactions
         if: ${{ always() }}
         uses: lowlighter/metrics@v3.34
         with:
@@ -125,7 +122,7 @@ jobs:
           plugin_reactions_limit: 100
           plugin_reactions_details: percentage
 
-      - name: 🗂️ Featured Repositories - Top Projects
+      - name: Featured Repositories
         if: ${{ always() }}
         uses: lowlighter/metrics@v3.34
         with:
@@ -134,19 +131,5 @@ jobs:
           user: ${{ env.USERNAME }}
           base: ""
           plugin_repositories: yes
-          plugin_repositories_featured: billpwchan/futu_algo
+          plugin_repositories_featured: muriarty1893/lavida
           plugin_repositories_order: stars
-
-      - name: 💹 Stock Prices - Market Data
-        if: ${{ always() && env.STOCK_TOKEN != '' }}
-        uses: lowlighter/metrics@v3.34
-        with:
-          filename: asset/stock.svg
-          token: ${{ env.METRICS_TOKEN }}
-          user: ${{ env.USERNAME }}
-          base: ""
-          plugin_stock: yes
-          plugin_stock_token: ${{ env.STOCK_TOKEN }}
-          plugin_stock_symbol: MS
-          plugin_stock_duration: 5d
-          plugin_stock_interval: 5m
