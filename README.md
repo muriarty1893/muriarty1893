@@ -17,13 +17,9 @@
 
 <div align="center">
 
-| **Core Metrics** | **Activity & Insights** |
-|:---:|:---:|
-| <img src="asset/base.svg" width="400"/> | <img src="asset/activity.svg" width="400"/> |
-| <img src="asset/languages.svg" width="400"/> | <img src="asset/isocalendar.svg" width="400"/> |
-| <img src="asset/habits.svg" width="400"/> | <img src="asset/achievements.svg" width="400"/> |
-| <img src="asset/projects.svg" width="400"/> | <img src="asset/stargazers.svg" width="400"/> |
-| <img src="asset/reactions.svg" width="400"/> | |
+<img src="asset/base.svg" width="400"/>
+<br/>
+<img src="asset/isocalendar.svg" width="400"/>
 
 </div>
 
