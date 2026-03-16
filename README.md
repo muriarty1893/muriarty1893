@@ -2,7 +2,7 @@
 
 # Hey, I'm Murat Eker
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Software+Developer;Always+learning+new+things;Building+things+that+matter" alt="Typing SVG" />
+
 
 [![Portfolio](https://img.shields.io/badge/murateker.live-000?style=for-the-badge&logo=safari&logoColor=white)](https://murateker.live)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murat-eker/)
@@ -14,9 +14,7 @@
 
 ### About Me
 
-- Currently working on [lavida](https://github.com/muriarty1893/lavida)
-- Reach me at **ekermuratinfo@gmail.com**
-- Portfolio: **[murateker.live](https://murateker.live)**
+Computer Engineer specializing in AI, Machine Learning, and IT. Proven ability to ship end-to-end solutions — from fine-tuning YOLOv8 models for real-time computer vision to migrating production search infrastructure to Elasticsearch. Fluent in Python, comfortable with Docker and Linux, a strong believer in the open source ecosystem, and driven by complex problems that require building to learn. Experienced in leveraging AI tools and agents to accelerate development workflows and boost productivity. Open to all junior-level opportunities across Türkiye, including remote and hybrid roles.
 
 ---
 
