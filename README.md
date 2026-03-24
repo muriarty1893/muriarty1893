@@ -29,24 +29,3 @@ Computer Engineer specializing in AI, Machine Learning, and IT. Proven ability t
 ![Kibana](https://img.shields.io/badge/-Kibana-E8478B?style=flat-square&logo=kibana&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=muriarty1893&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=muriarty1893&theme=github-dark-blue&hide_border=true" height="170"/>
-
-</div>
-
----
-
-### Contribution Calendar
-
-<div align="center">
-
-<img src="asset/isocalendar.svg" width="500"/>
-
-</div>
