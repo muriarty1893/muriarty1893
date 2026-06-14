@@ -14,7 +14,7 @@
 
 ### About Me
 
-Computer Engineer specializing in AI, Machine Learning, and IT. Proven ability to ship end-to-end solutions. Fluent in Python, comfortable with Docker and Linux, a strong believer in the open source ecosystem, and driven by complex problems that require building to learn. Experienced in leveraging AI tools and agents to accelerate development workflows and boost productivity. Open to all junior-level opportunities across Türkiye, including remote and hybrid roles.
+Recent CS grad specializing in Backend and Server-side systems. Fluent in Python, comfortable with Docker and Linux, a strong believer in the open source ecosystem, and driven by complex problems that require building to learn. Experienced in leveraging AI tools and agents to accelerate development workflows and boost productivity. Open to all junior-level opportunities across Türkiye, including remote and hybrid roles.
 
 ---
 
